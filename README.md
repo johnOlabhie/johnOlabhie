@@ -1,16 +1,22 @@
-### Hi there 👋
+### Introduction:
 
-<!--
-**johnOlabhie/johnOlabhie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! It's great to meet you. Let's delve into your fascinating world of VR game development and beyond. Here's a glimpse into your profile and current endeavors:
 
-Here are some ideas to get you started:
+### Personal INFO:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Name:** John jj Olabhie 
+
+🎓 **Education:** University Student in Scotland. 
+
+### Interests and Passions:
+
+ **Coding:** Currently learning my 3 coding langue
+
+🏋️ **Gym:** Beyond the digital realm, I enjoy physical activity such as gym, dancing and swimming. 
+
+ **Cinephile and gamer:** A lover of movies and series. including a Fortnite and Call of Duty FREAK!
+
+### Current Focus:
+
+**VR Game Development:** My current passion project revolves around VR game development. This exciting endeavor allows you to blend your coding skills with your love for immersive experiences. As you navigate through the intricacies of building a VR game, you're constantly pushing the boundaries of what's possible in virtual reality.
+
