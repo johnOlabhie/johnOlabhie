@@ -1,10 +1,10 @@
 ### Introduction:
 
-Hello there! It's great to meet you. Let's delve into your fascinating world of VR game development and beyond. Here's a glimpse into your profile and current endeavors:
-
+Hello there! It's great to meet you. 💙:
+ 
 ### Personal INFO:
 
-🌟 **Name:** John jj Olabhie 
+🌟 **Name:** John JJ Olabhie 
 
 🎓 **Education:** University Student in Scotland. 
 
@@ -14,7 +14,8 @@ Hello there! It's great to meet you. Let's delve into your fascinating world of 
 
 🏋️ **Gym:** Beyond the digital realm, I enjoy physical activity such as gym, dancing and swimming. 
 
- **Cinephile and gamer:** A lover of movies and series. including a Fortnite and Call of Duty FREAK! 🌟🌟🌟
+ **Cinephile and gamer:** A lover of movies and series. including a Fortnite and Call of Duty FREAK!!! 😆🥇
+
 
 ### Current Focus:
 
